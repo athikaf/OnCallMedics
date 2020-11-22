@@ -1,0 +1,139 @@
+body{
+  color:#10316b;
+  font-family: 'Goldman', cursive;
+}
+.middle-container,.second-container,.third-container{
+    position: relative;
+    padding-top: 150px;
+    padding-bottom: 300px;
+    padding-right: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #10316b;
+    background-color: #a2d5f2;
+    font-family: 'Merriweather', serif;
+
+}
+.middle-container{
+  background-image: url('header-image.jpg');
+}
+.second-container{
+  background-image: url('doc.jpg');
+}
+.third-container{
+  background-image: url('third-img.jpg');
+}
+.navbar-custom {
+  background-color:#a2d5f2;
+
+
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+      color:#10316b;
+      font-family: 'Goldman', cursive;
+}
+h1{
+  color: #10316b;
+  background-color: #a2d5f2;
+  font-family: 'Merriweather', serif;
+}
+/* trustworthy */
+#features{
+position: relative;
+    padding: 7% 15%;
+background-color: white;
+text-align: center;
+}
+.icons{
+  color:#0278ae ;
+  margin-bottom: 1rem;
+
+}
+.icons:hover{
+  color: #10316b;
+}
+.sec-h3{
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+
+}
+.sec-p{
+  color: #8f8f8f;
+  font-weight: lighter;
+  text-align: center;
+  padding-bottom: 50px;
+
+}
+
+/* testimonials */
+/* testimonials */
+#testimonials{
+
+  text-align: center;
+  background-color: #0278ae;
+  color:white;
+font-family: 'Castoro', serif;
+}
+.text-review{
+  padding: 7% 15%;
+}
+.dog-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #0278ae;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.company-imgs{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* pricing section */
+#pricing{
+  padding: 100px;
+  text-align: center;
+
+}
+.pricing-col{
+  padding: 3% 2%;
+}
+
+/* cta section */
+#cta{
+  background-color: #a2d5f2;
+  text-align: center;
+  padding:10% 15%;
+}
+
+.end-h3{
+  text-align: center;
+    font-family: 'Merriweather', serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #10316b;
+
+}
+
+/* footer */
+#footer{
+  background-color: white;
+  padding: 7% 15%;
+  text-align: center;
+}
+.copyright-elmt{
+  color: #8f8f8f;
+  font-family: 'Castoro', serif;
+
+}
+
+.contact-icons{
+  color: black;
+  padding: 10px;
+}
